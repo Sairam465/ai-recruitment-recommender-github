@@ -1,0 +1,1 @@
+Place synthetic/demo resumes in this folder for your presentation. Do not commit real candidates' resumes or personal data to a public repository. You can create `.txt` sample resumes locally and upload them through the app.
