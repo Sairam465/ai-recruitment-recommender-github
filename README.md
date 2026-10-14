@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Recruitment Recommendation System
 
 A hackathon-ready full-stack MVP that compares resumes with a job description and ranks candidates using explainable skill/keyword matching.
@@ -72,3 +73,5 @@ git push -u origin main
 - It intentionally does not score protected characteristics such as age, gender, race, religion, disability, or nationality.
 - Keep candidate files private, obtain consent, and delete uploads when no longer needed.
 - Human reviewers should verify all extracted skills and make final decisions.
+=======
+
